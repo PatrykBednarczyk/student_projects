@@ -6,13 +6,13 @@ int main(){
   float odleglosc;
   int liczosob;
   int cenaosoba;
-  float srspalanie = 8;
-  float cenapal = 6.24;
+  float srspalanie = 5;
+  float cenapal = 5;
   int wielkbaku = 50;
   
   cout<<"Srednie spalanie w samochodzie wynosi:" <<endl<<srspalanie<<"L/km"<<endl;
   cout<<"Wielkosc baku wynosi"<<endl<<wielkbaku<<"L"<<endl;
-  cout<<"Cena za litr palwia na stacji wynosi 6.24"<<endl;
+  cout<<"Cena za litr palwia na stacji wynosi 5zl"<<endl;
   cout<<"Podaj liczbe osob uczestniczacych w przejzdzie"<<endl;
   cin>> liczosob;
   cout<<"Podaj odleglosc do przebycia(Podaj w kilometrach)"<<endl;
